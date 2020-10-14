@@ -100,7 +100,7 @@
 
         <section class="tm-section-3 tm-section-mb" id="tm-section-3">
             <div class="row">
-                @foreach($posts as $data)
+                @foreach($posts ?? '' as $data)
                 <div class="col-md-6 tm-mb-sm-4 tm-2col-l">
                     <div class="image">
                         <img src="img/tm-img-1.jpg" class="img-fluid" />
