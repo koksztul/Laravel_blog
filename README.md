@@ -1,6 +1,5 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-![Test Image 4](https://i.imgur.com/tMLSSOL.png 634)
+![home screen](https://i.imgur.com/tMLSSOL.png)
 
 
 <p align="center">
